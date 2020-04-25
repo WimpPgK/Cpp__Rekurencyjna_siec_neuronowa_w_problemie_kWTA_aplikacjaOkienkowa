@@ -1,1 +1,1 @@
-# -C-Rekurencyjna-sie-neuronowa-w-problemie-kWTA
+#  [Go to README!](https://github.com/WimpPgK/Python_MonteCarloMethodInMaterialScience/blob/master/README.pdf)
